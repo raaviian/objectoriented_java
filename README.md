@@ -1,10 +1,10 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hello this is my first time learning basic java
 
-## Folder Structure
+## Object Oriented Programming (Java)
 
-The workspace contains two folders by default, where:
+This is kind of foldering i usually use
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
